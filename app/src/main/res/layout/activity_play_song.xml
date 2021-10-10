@@ -4,12 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/background"
     tools:context=".play_song">
 
     <ImageView
         android:id="@+id/imageview2"
-        android:layout_width="182dp"
-        android:layout_height="234dp"
+        android:layout_width="257dp"
+        android:layout_height="337dp"
         android:layout_marginTop="36dp"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
